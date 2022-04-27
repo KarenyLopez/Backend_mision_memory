@@ -1,6 +1,6 @@
-baseURL = "https://example.com"
+baseURL = "https://karenylopez.github.io/Backend_mision_memory/"
 languageCode = "en-us"
-title = "Bitácora de Viaje"
+title = "Bitácora de Viaje de Kareny"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
